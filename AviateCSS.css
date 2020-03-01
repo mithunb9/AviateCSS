@@ -35,6 +35,10 @@ http://getskeleton.com/
 }
 
 
+button {
+	cursor: pointer;
+}
+
 /* Ok Button */
 
 .av-bt-ok {
