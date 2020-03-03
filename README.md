@@ -2,10 +2,12 @@
 
 AviateCSS is a simple css framework thats built to last. Built on top of css flexbox, it provides simple UI changes that provide a neat and clean experience.
 
+[Documenation](iiaviator.github.io/css/docs)
+
 ### Compatibility
 AviateCSS was built to be compatible. It will not override any other frameworks due to its use of custom class names. This means you can use it with your favorite frameworks like Boostrap and Skeleton. 
 
-I personall recommend using this framework with [Skeleton](http://getskeleton.com/).
+I personally recommend using this framework with [Skeleton](http://getskeleton.com/).
 
 ### Todos
 - Add simpler fonts.
